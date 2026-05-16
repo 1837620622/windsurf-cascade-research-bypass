@@ -1,0 +1,144 @@
+=== 模型名称 → model_uid 映射 ===
+
+  Claude Opus 4.7 Medium                   → claude-opus-4-7-medium
+  LLAMA_WITH_SPECIAL2                      → claude-opus-4-7-medium
+  Claude Opus 4.7                          → (未找到)
+  Claude Opus 4.6 Thinking                 → claude-opus-4-6-thinking
+  Claude Opus 4.6                          → (未找到)
+  GPT-5.5 Low Thinking                     → gpt-5-5-low
+  GPT-5.5                                  → (未找到)
+  Claude Sonnet 4.6 Thinking               → claude-sonnet-4-6-thinking
+  Claude Sonnet 4.6                        → (未找到)
+  Kimi K2.6(                               → kimi-k2-6
+  Kimi K2.6                                → swe-1-6
+  SWE-1.6                                  → swe-1-6
+  SWE-1.6 Fast                             → swe-1-6-fast
+  DeepSeek V4                              → deepseek-v4
+  Claude Opus 4.7 Low                      → claude-opus-4-7-low
+  Claude Opus 4.7 High                     → claude-opus-4-7-high
+  Claude Opus 4.7 XHigh                    → claude-opus-4-7-xhigh
+  Claude Opus 4.7 Max                      → claude-opus-4-7-max
+  Claude Opus 4.7 Low Fast                 → claude-opus-4-7-low-fast
+  Claude Opus 4.7 Medium Fast              → claude-opus-4-7-medium-fast
+  Claude Opus 4.7 High Fast                → claude-opus-4-7-high-fast
+  Claude Opus 4.7 XHigh Fast               → claude-opus-4-7-xhigh-fast
+  Claude Opus 4.7 Max Fast                 → claude-opus-4-7-max-fast
+  Claude Opus 4.6 1M                       → claude-opus-4-6-1m
+  Claude Opus 4.6 Thinking 1M              → claude-opus-4-6-thinking-1m
+  Claude Opus 4.6 Fast                     → claude-opus-4-6-fast
+  Claude Opus 4.6 Thinking Fast            → claude-opus-4-6-thinking-fast
+  GPT-5.4 No Thinking                      → gpt-5-4-none
+  GPT-5.4                                  → (未找到)
+  GPT-5.4 Low Thinking                     → gpt-5-4-low
+  GPT-5.4 Medium Thinking                  → gpt-5-4-medium
+  GPT-5.4 High Thinking                    → gpt-5-4-high
+  GPT-5.4 XHigh Thinking                   → gpt-5-4-xhigh
+  GPT-5.5 No Thinking                      → gpt-5-5-none
+  GPT-5.5 Medium Thinking                  → gpt-5-5-medium
+  GPT-5.5 High Thinking                    → gpt-5-5-high
+  GPT-5.5 XHigh Thinking                   → gpt-5-5-xhigh
+  GPT-5.5 No Thinking Fast                 → gpt-5-5-none-priority
+  GPT-5.5 Low Thinking Fast                → gpt-5-5-low-priority
+  GPT-5.5 Medium Thinking Fast             → gpt-5-5-medium-priority
+  GPT-5.5 High Thinking Fast               → gpt-5-5-high-priority
+  GPT-5.5 XHigh Thinking Fast              → gpt-5-5-xhigh-priority
+  GPT-5.4 No Thinking Fast                 → gpt-5-4-none-priority
+  GPT-5.4 Low Thinking Fast                → gpt-5-4-low-priority
+  GPT-5.4 Medium Thinking Fast             → gpt-5-4-medium-priority
+  GPT-5.4 High Thinking Fast               → gpt-5-4-high-priority
+  GPT-5.4 XHigh Thinking Fast              → gpt-5-4-xhigh-priority
+  GPT-5.4 Mini Low Thinking                → gpt-5-4-mini-low
+  GPT-5.4 Mini                             → (未找到)
+  GPT-5.4 Mini Medium Thinking             → gpt-5-4-mini-medium
+  GPT-5.4 Mini High Thinking               → gpt-5-4-mini-high
+  GPT-5.4 Mini XHigh Thinking              → gpt-5-4-mini-xhigh
+  Claude Sonnet 4.6 1M                     → claude-sonnet-4-6-1m
+  Claude Sonnet 4.6 Thinking 1M            → claude-sonnet-4-6-thinking-1m
+  GPT-5.2 Low Thinking                     → gpt-5.2
+  GPT-5.2                                  → (未找到)
+  GPT-5.2 Medium Thinking                  → gpt-5.2
+  GPT-5.2 Low Thinking Fast                → gpt-5.2
+  GPT-5.2 Medium Thinking Fast             → gpt-5.2
+  Claude Opus 4.5                          → claude-opus-4.5
+  MODEL_CLAUDE_4_5_OPUS                    → claude-opus-4.5
+  Claude Opus 4.5 Thinking                 → claude-opus-4.5
+  MODEL_CLAUDE_4_5_OPUS_THINKING           → claude-opus-4.5
+  SWE-1.5 Fast                             → swe-1p5
+  SWE-1.5                                  → (未找到)
+  Claude Haiku 4.5                         → (未找到)
+  Claude Sonnet 4.5                        → claude-sonnet-4.5
+  Claude Sonnet 4.5 Thinking               → claude-sonnet-4.5
+  GPT-5 Low Thinking                       → (未找到)
+  GPT-4.1                                  → (未找到)
+  Gemini 2.5 Pro                           → (未找到)
+  MODEL_GOOGLE_GEMINI_2_5_PRO              → (未找到)
+  Claude Sonnet 4 BYOK                     → (未找到)
+  MODEL_CLAUDE_4_SONNET_BYOK               → (未找到)
+  Claude Sonnet 4 Thinking BYOK            → (未找到)
+  #MODEL_CLAUDE_4_SONNET_THINKING_BYOK     → (未找到)
+  Claude Opus 4 BYOK                       → (未找到)
+  MODEL_CLAUDE_4_OPUS_BYOK                 → (未找到)
+  Claude Opus 4 Thinking BYOK              → (未找到)
+  !MODEL_CLAUDE_4_OPUS_THINKING_BYOK       → (未找到)
+  GPT-5-Codex                              → (未找到)
+  GPT-5 Medium Thinking                    → (未找到)
+  GPT-5 High Thinking                      → (未找到)
+  GPT-5.1 No Thinking                      → gpt-5.1
+  GPT-5.1                                  → (未找到)
+  GPT-5.1 Low Thinking                     → gpt-5.1
+  GPT-5.1 Medium Thinking                  → gpt-5.1
+  GPT-5.1 High Thinking                    → gpt-5.1
+  GPT-5.1 No Thinking Fast                 → gpt-5.1
+  GPT-5.1 Low Thinking Fast                → gpt-5.1
+  GPT-5.1 Medium Thinking Fast             → gpt-5.1
+  GPT-5.1 High Thinking Fast               → gpt-5.1
+  GPT-5.2 No Thinking                      → gpt-5.2
+  GPT-5.2 High Thinking                    → gpt-5.2
+  GPT-5.2 XHigh Thinking                   → gpt-5.2
+  GPT-5.2 No Thinking Fast                 → gpt-5.2
+  GPT-5.2 High Thinking Fast               → gpt-5.2
+  GPT-5.2 XHigh Thinking Fast              → gpt-5.2
+  GPT-5.2-Codex Low                        → gpt-5.2-codex
+  GPT-5.2-Codex                            → (未找到)
+  GPT-5.2-Codex Medium                     → gpt-5.2-codex
+  GPT-5.2-Codex High                       → gpt-5.2-codex
+  GPT-5.2-Codex XHigh                      → gpt-5.2-codex
+  GPT-5.2-Codex Low Fast                   → gpt-5.2-codex
+  GPT-5.2-Codex Medium Fast                → gpt-5.2-codex
+  GPT-5.2-Codex High Fast                  → gpt-5.2-codex
+  GPT-5.2-Codex XHigh Fast                 → gpt-5.2-codex
+  GPT-5.3-Codex Low                        → gpt-5-3-codex-low
+  GPT-5.3-Codex                            → (未找到)
+  GPT-5.3-Codex Medium                     → gpt-5-3-codex-medium
+  GPT-5.3-Codex High                       → gpt-5-3-codex-high
+  GPT-5.3-Codex X-High                     → gpt-5-3-codex-xhigh
+  GPT-5.3-Codex Low Fast                   → gpt-5-3-codex-low-priority
+  GPT-5.3-Codex Medium Fast                → gpt-5-3-codex-medium-priority
+  GPT-5.3-Codex High Fast                  → gpt-5-3-codex-high-priority
+  GPT-5.3-Codex XHigh Fast                 → gpt-5-3-codex-xhigh-priority
+  GPT-5.1-Codex Max Low                    → gpt-5.1-codex-max
+  GPT-5.1-Codex Max                        → (未找到)
+  GPT-5.1-Codex Max Medium                 → gpt-5.1-codex-max
+  GPT-5.1-Codex Max High                   → gpt-5.1-codex-max
+  GPT-5.1-Codex Low                        → gpt-5.1-codex
+  GPT-5.1-Codex                            → (未找到)
+  GPT-5.1-Codex-Mini Low                   → gpt-5.1-codex-mini
+  GPT-5.1-Codex-Mini                       → (未找到)
+  GPT-5.1-Codex Medium                     → (未找到)
+  GPT-4o                                   → (未找到)
+  Kimi K2.5                                → kimi-k2-5
+  GLM-5.1                                  → glm-5-1
+  /Full SWE-1.5 intelligence at regular throughput → swe-1p5
+  Gemini 3.1 Pro Low Thinking              → gemini-3-1-pro-low
+  Gemini 3.1 Pro                           → (未找到)
+  Gemini 3.1 Pro High Thinking             → gemini-3-1-pro-high
+  Gemini 3 Flash Minimal                   → gemini-3.0-flash
+  %MODEL_GOOGLE_GEMINI_3_0_FLASH_MINIMAL   → gemini-3.0-flash
+  Gemini 3 Flash                           → (未找到)
+  Gemini 3 Flash Low                       → gemini-3.0-flash
+  !MODEL_GOOGLE_GEMINI_3_0_FLASH_LOW       → gemini-3.0-flash
+  Gemini 3 Flash Medium                    → gemini-3.0-flash
+  $MODEL_GOOGLE_GEMINI_3_0_FLASH_MEDIUM    → gemini-3.0-flash
+  Gemini 3 Flash High                      → gemini-3.0-flash
+  "MODEL_GOOGLE_GEMINI_3_0_FLASH_HIGH      → gemini-3.0-flash
+  DeepSeek                                 → (未找到)

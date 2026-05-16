@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Go
+*.exe
+*.dll
+*.so
+*.dylib
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local mitm runs
+/tmp/wf_*
+
+# === 含真实凭据 (JWT / account-id / email) - 不能传 GitHub ===
+*.mitm
+raw_data/capture_2026-05-16/decoded_*.txt
+raw_data/capture_2026-05-16/mitm.log
+raw_data/original_getchatmessage_req.bin
+raw_data/unleash_features.json
+raw_data/capture_2026-05-16/unleash_toggles.txt
+
+# Local creds
+inner_jwt.bin
+*_jwt.txt
+auth_header.txt
+fresh_meta*.bin
+codeium_auth.txt
+*credentials*
+
+# Decoded artifacts (regenerable, may contain credentials)
+decoded_*.txt

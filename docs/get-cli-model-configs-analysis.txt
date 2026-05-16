@@ -1,0 +1,864 @@
+共 79 个模型配置
+
+模型名称                                         计费ID 描述                             提供商          其他
+------------------------------------------------------------------------------------------------------------------------
+Claude Opus 4.7 Medium                                                                        field_10=3, field_11=1, field_
+Claude Opus 4.6 Thinking                                                                      field_10=3, field_11=1, field_
+GPT-5.5 Low Thinking                                                                          field_10=2, field_11=1, field_
+Claude Sonnet 4.6 Thinking                                                                    field_10=3, field_11=1, field_
+Kimi K2.6                                                                                     field_1=1, field_10=7, field_1
+SWE-1.6                                                                          LLAMA_WITH   field_0=3543600045515801010, f
+SWE-1.6 Fast                                                                                  field_0=3543600045516128690, f
+DeepSeek V4                                                                                   field_10=6, field_11=1, field_
+Adaptive                                                                                      field_0=7233071279237109808, f
+Claude Opus 4.7 Low                                                                           field_10=3, field_13=1, field_
+Claude Opus 4.7 High                                                                          field_10=3, field_13=1, field_
+Claude Opus 4.7 XHigh                                                                         field_10=3, field_13=1, field_
+Claude Opus 4.7 Max                                                                           field_10=3, field_13=1, field_
+Claude Opus 4.7 Low Fast                                                                      field_10=3, field_13=1, field_
+Claude Opus 4.7 Medium Fast                                                                   field_10=3, field_13=1, field_
+Claude Opus 4.7 High Fast                                                                     field_10=3, field_13=1, field_
+Claude Opus 4.7 XHigh Fast                                                                    field_10=3, field_13=1, field_
+Claude Opus 4.7 Max Fast                                                                      field_10=3, field_13=1, field_
+Claude Opus 4.6                                                                               field_10=3, field_13=1, field_
+Claude Opus 4.6 1M                                                                            field_10=3, field_13=1, field_
+Claude Opus 4.6 Thinking 1M                                                                   field_10=3, field_13=1, field_
+Claude Opus 4.6 Fast                                                                          field_10=3, field_13=1, field_
+Claude Opus 4.6 Thinking Fast                                                                 field_10=3, field_13=1, field_
+GPT-5.4 No Thinking                                                                           field_10=2, field_13=1, field_
+GPT-5.4 Low Thinking                                                                          field_10=2, field_13=1, field_
+GPT-5.4 Medium Thinking                                                                       field_10=2, field_13=1, field_
+GPT-5.4 High Thinking                                                                         field_10=2, field_13=1, field_
+GPT-5.4 XHigh Thinking                                                                        field_10=2, field_13=1, field_
+GPT-5.5 No Thinking                                                                           field_10=2, field_13=1, field_
+GPT-5.5 Medium Thinking                                                                       field_10=2, field_13=1, field_
+GPT-5.5 High Thinking                                                                         field_10=2, field_13=1, field_
+GPT-5.5 XHigh Thinking                                                                        field_10=2, field_13=1, field_
+GPT-5.5 No Thinking Fast                                                                      field_10=2, field_13=1, field_
+GPT-5.5 Low Thinking Fast                                                                     field_10=2, field_13=1, field_
+GPT-5.5 Medium Thinking Fast                                                                  field_10=2, field_13=1, field_
+GPT-5.5 High Thinking Fast                                                                    field_10=2, field_13=1, field_
+GPT-5.5 XHigh Thinking Fast                                                                   field_10=2, field_13=1, field_
+GPT-5.4 No Thinking Fast                                                                      field_10=2, field_13=1, field_
+GPT-5.4 Low Thinking Fast                                                                     field_10=2, field_13=1, field_
+GPT-5.4 Medium Thinking Fast                                                                  field_10=2, field_13=1, field_
+GPT-5.4 High Thinking Fast                                                                    field_10=2, field_13=1, field_
+GPT-5.4 XHigh Thinking Fast                                                                   field_10=2, field_13=1, field_
+GPT-5.4 Mini Low Thinking                                                                     field_10=2, field_13=1, field_
+GPT-5.4 Mini Medium Thinking                                                                  field_10=2, field_13=1, field_
+GPT-5.4 Mini High Thinking                                                                    field_10=2, field_13=1, field_
+GPT-5.4 Mini XHigh Thinking                                                                   field_10=2, field_13=1, field_
+Claude Sonnet 4.6                                                                             field_10=3, field_13=1, field_
+Claude Sonnet 4.6 1M                                                                          field_10=3, field_13=1, field_
+Claude Sonnet 4.6 Thinking 1M                                                                 field_10=3, field_13=1, field_
+GPT-5.2 Low Thinking                                                                          field_10=2, field_13=1, field_
+GPT-5.2 Medium Thinking                                                                       field_10=2, field_13=1, field_
+Claude Opus 4.5                                                                               field_10=3, field_13=1, field_
+Claude Opus 4.5 Thinking                                                                      field_10=3, field_13=1, field_
+SWE-1.5 Fast                                                                                  field_0=5495874027661361586, f
+Claude Haiku 4.5                                                                              field_10=3, field_13=1, field_
+Claude Sonnet 4.5                                                                             field_1=1, field_10=3, field_1
+Claude Sonnet 4.5 Thinking                                                                    field_1=1, field_10=3, field_1
+GPT-5.2 No Thinking                                                                           field_10=2, field_13=1, field_
+GPT-5.2 High Thinking                                                                         field_10=2, field_13=1, field_
+GPT-5.2 XHigh Thinking                                                                        field_10=2, field_13=1, field_
+GPT-5.3-Codex Low                                                                             field_10=2, field_13=1, field_
+GPT-5.3-Codex Medium                                                                          field_10=2, field_13=1, field_
+GPT-5.3-Codex High                                                                            field_10=2, field_13=1, field_
+GPT-5.3-Codex X-High                                                                          field_10=2, field_13=1, field_
+GPT-5.3-Codex Low Fast                                                                        field_10=2, field_13=1, field_
+GPT-5.3-Codex Medium Fast                                                                     field_10=2, field_13=1, field_
+GPT-5.3-Codex High Fast                                                                       field_10=2, field_13=1, field_
+GPT-5.3-Codex XHigh Fast                                                                      field_10=2, field_13=1, field_
+GLM-5.1                                                                                       field_13=1, field_18=1, field_
+SWE-check                                                                                     field_1=1, field_10=1, field_1
+Opus 4.7 Review                                                                               field_10=3, field_13=1, field_
+GPT 5.5 Review                                                                                field_10=2, field_13=1, field_
+SWE-1.5                                           Full SWE-1.5 intelligence at                field_1=1, field_10=1, field_1
+Gemini 3.1 Pro Low Thinking                                                                   field_10=4, field_13=1, field_
+Gemini 3.1 Pro High Thinking                                                                  field_10=4, field_13=1, field_
+Gemini 3 Flash Minimal                                                                        field_10=4, field_13=1, field_
+Gemini 3 Flash Low                                                                            field_10=4, field_13=1, field_
+Gemini 3 Flash Medium                                                                         field_10=4, field_13=1, field_
+Gemini 3 Flash High                                                                           field_10=4, field_13=1, field_
+
+
+=== 全部原始字段 ===
+
+
+--- 模型 #1 ---
+  field 1 (string): Claude Opus 4.7 Medium
+  field 3 (fixed32): 1109393408
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 11 (varint): 1
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 7812
+
+--- 模型 #2 ---
+  field 1 (string): Claude Opus 4.6 Thinking
+  field 3 (fixed32): 1090519040
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 11 (varint): 1
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 1562
+
+--- 模型 #3 ---
+  field 1 (string): GPT-5.5 Low Thinking
+  field 3 (fixed32): 1094713344
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 11 (varint): 1
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #4 ---
+  field 1 (string): Claude Sonnet 4.6 Thinking
+  field 3 (fixed32): 1086324736
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 11 (varint): 1
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 1562
+
+--- 模型 #5 ---
+  field 1 (string): Kimi K2.6
+  field 5 (varint): 1
+  field 10 (varint): 7
+  field 11 (varint): 1
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2048
+  field 1 (varint): 1
+  field 2 (message): [(1, 'varint', 1780646400)]
+
+--- 模型 #6 ---
+  field 1 (string): SWE-1.6
+  field 3 (fixed32): 1056964608
+  field 5 (varint): 1
+  field 10 (varint): 1
+  field 11 (varint): 1
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 1562
+  field 20 (varint): 1
+  field 0 (fixed64): 3543600045515801010
+  field 5 (fixed32): 1862384182
+  field 3 (varint): 2
+  field 4 (varint): 200000
+  field 5 (string): LLAMA_WITH_SPECIAL
+  field 6 (message): [(8, 'varint', 1), (11, 'varint', 1), (12, 'varint', 1), (15, 'varint', 1), (20, 'varint', 1), (0, 'fixed64', 128353696407945640), (0, 'fixed64', 0)]
+  field 13 (varint): 128000
+
+--- 模型 #7 ---
+  field 1 (string): SWE-1.6 Fast
+  field 3 (fixed32): 1056964608
+  field 5 (varint): 1
+  field 10 (varint): 1
+  field 11 (varint): 1
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 1562
+  field 20 (varint): 1
+  field 0 (fixed64): 3543600045516128690
+  field 5 (fixed32): 1634086198
+
+--- 模型 #8 ---
+  field 1 (string): DeepSeek V4
+  field 3 (fixed32): 1077936128
+  field 10 (varint): 6
+  field 11 (varint): 1
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 8192
+
+--- 模型 #9 ---
+  field 1 (string): Adaptive
+  field 3 (fixed32): 1065353216
+  field 5 (varint): 1
+  field 10 (varint): 1
+  field 11 (varint): 1
+  field 13 (varint): 1
+  field 1 (varint): 1
+  field 2 (message): [(1, 'varint', 1780819200)]
+  field 12 (fixed64): 13431271658999538020
+  field 0 (fixed64): 7233071279237109808
+  field 12 (fixed64): 1873939884438811760
+  field 13 (varint): 116
+
+--- 模型 #10 ---
+  field 1 (string): Claude Opus 4.7 Low
+  field 3 (fixed32): 1101004800
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 7812
+
+--- 模型 #11 ---
+  field 1 (string): Claude Opus 4.7 High
+  field 3 (fixed32): 1114636288
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 7812
+
+--- 模型 #12 ---
+  field 1 (string): Claude Opus 4.7 XHigh
+  field 3 (fixed32): 1115815936
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 7812
+
+--- 模型 #13 ---
+  field 1 (string): Claude Opus 4.7 Max
+  field 3 (fixed32): 1117126656
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 7812
+
+--- 模型 #14 ---
+  field 1 (string): Claude Opus 4.7 Low Fast
+  field 3 (fixed32): 1123024896
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 7812
+
+--- 模型 #15 ---
+  field 1 (string): Claude Opus 4.7 Medium Fast
+  field 3 (fixed32): 1131413504
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 7812
+
+--- 模型 #16 ---
+  field 1 (string): Claude Opus 4.7 High Fast
+  field 3 (fixed32): 1135869952
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 7812
+
+--- 模型 #17 ---
+  field 1 (string): Claude Opus 4.7 XHigh Fast
+  field 3 (fixed32): 1136852992
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 7812
+
+--- 模型 #18 ---
+  field 1 (string): Claude Opus 4.7 Max Fast
+  field 3 (fixed32): 1138819072
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 7812
+
+--- 模型 #19 ---
+  field 1 (string): Claude Opus 4.6
+  field 3 (fixed32): 1086324736
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 1562
+
+--- 模型 #20 ---
+  field 1 (string): Claude Opus 4.6 1M
+  field 3 (fixed32): 1092616192
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 7812
+
+--- 模型 #21 ---
+  field 1 (string): Claude Opus 4.6 Thinking 1M
+  field 3 (fixed32): 1094713344
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 7812
+
+--- 模型 #22 ---
+  field 1 (string): Claude Opus 4.6 Fast
+  field 3 (fixed32): 1103101952
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 1562
+
+--- 模型 #23 ---
+  field 1 (string): Claude Opus 4.6 Thinking Fast
+  field 3 (fixed32): 1106247680
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 1562
+
+--- 模型 #24 ---
+  field 1 (string): GPT-5.4 No Thinking
+  field 3 (fixed32): 1069547520
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #25 ---
+  field 1 (string): GPT-5.4 Low Thinking
+  field 3 (fixed32): 1069547520
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #26 ---
+  field 1 (string): GPT-5.4 Medium Thinking
+  field 3 (fixed32): 1077936128
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #27 ---
+  field 1 (string): GPT-5.4 High Thinking
+  field 3 (fixed32): 1082130432
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #28 ---
+  field 1 (string): GPT-5.4 XHigh Thinking
+  field 3 (fixed32): 1094713344
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #29 ---
+  field 1 (string): GPT-5.5 No Thinking
+  field 3 (fixed32): 1091567616
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #30 ---
+  field 1 (string): GPT-5.5 Medium Thinking
+  field 3 (fixed32): 1097859072
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #31 ---
+  field 1 (string): GPT-5.5 High Thinking
+  field 3 (fixed32): 1103101952
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #32 ---
+  field 1 (string): GPT-5.5 XHigh Thinking
+  field 3 (fixed32): 1108344832
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #33 ---
+  field 1 (string): GPT-5.5 No Thinking Fast
+  field 3 (fixed32): 1102315520
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #34 ---
+  field 1 (string): GPT-5.5 Low Thinking Fast
+  field 3 (fixed32): 1106247680
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #35 ---
+  field 1 (string): GPT-5.5 Medium Thinking Fast
+  field 3 (fixed32): 1108738048
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #36 ---
+  field 1 (string): GPT-5.5 High Thinking Fast
+  field 3 (fixed32): 1114636288
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #37 ---
+  field 1 (string): GPT-5.5 XHigh Thinking Fast
+  field 3 (fixed32): 1119092736
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #38 ---
+  field 1 (string): GPT-5.4 No Thinking Fast
+  field 3 (fixed32): 1077936128
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #39 ---
+  field 1 (string): GPT-5.4 Low Thinking Fast
+  field 3 (fixed32): 1077936128
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #40 ---
+  field 1 (string): GPT-5.4 Medium Thinking Fast
+  field 3 (fixed32): 1086324736
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #41 ---
+  field 1 (string): GPT-5.4 High Thinking Fast
+  field 3 (fixed32): 1090519040
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #42 ---
+  field 1 (string): GPT-5.4 XHigh Thinking Fast
+  field 3 (fixed32): 1103101952
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #43 ---
+  field 1 (string): GPT-5.4 Mini Low Thinking
+  field 3 (fixed32): 1069547520
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 3125
+
+--- 模型 #44 ---
+  field 1 (string): GPT-5.4 Mini Medium Thinking
+  field 3 (fixed32): 1069547520
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 3125
+
+--- 模型 #45 ---
+  field 1 (string): GPT-5.4 Mini High Thinking
+  field 3 (fixed32): 1083179008
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 3125
+
+--- 模型 #46 ---
+  field 1 (string): GPT-5.4 Mini XHigh Thinking
+  field 3 (fixed32): 1094713344
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 3125
+
+--- 模型 #47 ---
+  field 1 (string): Claude Sonnet 4.6
+  field 3 (fixed32): 1082130432
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 1562
+
+--- 模型 #48 ---
+  field 1 (string): Claude Sonnet 4.6 1M
+  field 3 (fixed32): 1094713344
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 7812
+
+--- 模型 #49 ---
+  field 1 (string): Claude Sonnet 4.6 Thinking 1M
+  field 3 (fixed32): 1098907648
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 7812
+
+--- 模型 #50 ---
+  field 1 (string): GPT-5.2 Low Thinking
+  field 2 (message): [(1, 'varint', 400)]
+  field 3 (fixed32): 1065353216
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 3000
+  field 9 (fixed32): 1279607887
+
+--- 模型 #51 ---
+  field 1 (string): GPT-5.2 Medium Thinking
+  field 2 (message): [(1, 'varint', 401)]
+  field 3 (fixed32): 1073741824
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 3000
+  field 9 (fixed32): 1279607887
+
+--- 模型 #52 ---
+  field 1 (string): Claude Opus 4.5
+  field 2 (message): [(1, 'varint', 391)]
+  field 3 (fixed32): 1082130432
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 1562
+  field 9 (fixed32): 1279607887
+
+--- 模型 #53 ---
+  field 1 (string): Claude Opus 4.5 Thinking
+  field 2 (message): [(1, 'varint', 392)]
+  field 3 (fixed32): 1084227584
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 1562
+  field 9 (fixed32): 1279607887
+
+--- 模型 #54 ---
+  field 1 (string): SWE-1.5 Fast
+  field 2 (message): [(1, 'varint', 359)]
+  field 3 (fixed32): 1056964608
+  field 5 (varint): 1
+  field 10 (varint): 1
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 1000
+  field 1 (varint): 1
+  field 20 (varint): 1
+  field 0 (fixed64): 5495874027661361586
+
+--- 模型 #55 ---
+  field 1 (string): Claude Haiku 4.5
+  field 2 (message): [(1, 'varint', 347)]
+  field 3 (fixed32): 1065353216
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 1562
+  field 9 (fixed32): 1279607887
+
+--- 模型 #56 ---
+  field 1 (string): Claude Sonnet 4.5
+  field 2 (message): [(1, 'varint', 220)]
+  field 3 (fixed32): 1073741824
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 1562
+  field 1 (varint): 1
+  field 9 (fixed32): 1279607887
+
+--- 模型 #57 ---
+  field 1 (string): Claude Sonnet 4.5 Thinking
+  field 2 (message): [(1, 'varint', 221)]
+  field 3 (fixed32): 1077936128
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 1562
+  field 1 (varint): 1
+  field 9 (fixed32): 1279607887
+
+--- 模型 #58 ---
+  field 1 (string): GPT-5.2 No Thinking
+  field 2 (message): [(1, 'varint', 399)]
+  field 3 (fixed32): 1065353216
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 3000
+  field 9 (fixed32): 1279607887
+
+--- 模型 #59 ---
+  field 1 (string): GPT-5.2 High Thinking
+  field 2 (message): [(1, 'varint', 402)]
+  field 3 (fixed32): 1077936128
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 3000
+  field 9 (fixed32): 1279607887
+
+--- 模型 #60 ---
+  field 1 (string): GPT-5.2 XHigh Thinking
+  field 2 (message): [(1, 'varint', 403)]
+  field 3 (fixed32): 1090519040
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 3000
+  field 9 (fixed32): 1279607887
+
+--- 模型 #61 ---
+  field 1 (string): GPT-5.3-Codex Low
+  field 3 (fixed32): 1069547520
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 3125
+
+--- 模型 #62 ---
+  field 1 (string): GPT-5.3-Codex Medium
+  field 3 (fixed32): 1073741824
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 3125
+
+--- 模型 #63 ---
+  field 1 (string): GPT-5.3-Codex High
+  field 3 (fixed32): 1075838976
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 3125
+
+--- 模型 #64 ---
+  field 1 (string): GPT-5.3-Codex X-High
+  field 3 (fixed32): 1077936128
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 3125
+
+--- 模型 #65 ---
+  field 1 (string): GPT-5.3-Codex Low Fast
+  field 3 (fixed32): 1077936128
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 3125
+
+--- 模型 #66 ---
+  field 1 (string): GPT-5.3-Codex Medium Fast
+  field 3 (fixed32): 1082130432
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 3125
+
+--- 模型 #67 ---
+  field 1 (string): GPT-5.3-Codex High Fast
+  field 3 (fixed32): 1084227584
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 3125
+
+--- 模型 #68 ---
+  field 1 (string): GPT-5.3-Codex XHigh Fast
+  field 3 (fixed32): 1086324736
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 3125
+
+--- 模型 #69 ---
+  field 1 (string): GLM-5.1
+  field 3 (fixed32): 1069547520
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 1562
+
+--- 模型 #70 ---
+  field 1 (string): SWE-check
+  field 5 (varint): 1
+  field 10 (varint): 1
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 1562
+  field 1 (varint): 1
+  field 2 (message): [(1, 'varint', 1782892800)]
+
+--- 模型 #71 ---
+  field 1 (string): Opus 4.7 Review
+  field 3 (fixed32): 1109393408
+  field 5 (varint): 1
+  field 10 (varint): 3
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 7812
+
+--- 模型 #72 ---
+  field 1 (string): GPT 5.5 Review
+  field 3 (fixed32): 1097859072
+  field 5 (varint): 1
+  field 10 (varint): 2
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 2125
+
+--- 模型 #73 ---
+  field 1 (string): SWE-1.5
+  field 2 (message): [(1, 'varint', 377)]
+  field 5 (varint): 1
+  field 10 (varint): 1
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 24 (varint): 1562
+  field 19 (string): ;
+  field 1 (varint): 1
+  field 2 (message): [(1, 'varint', 1782287999)]
+  field 3 (string): Full SWE-1.5 intelligence at regular throughput
+  field 9 (fixed32): 1279607887
+
+--- 模型 #74 ---
+  field 1 (string): Gemini 3.1 Pro Low Thinking
+  field 3 (fixed32): 1065353216
+  field 5 (varint): 1
+  field 10 (varint): 4
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 8192
+
+--- 模型 #75 ---
+  field 1 (string): Gemini 3.1 Pro High Thinking
+  field 3 (fixed32): 1073741824
+  field 5 (varint): 1
+  field 10 (varint): 4
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 8192
+
+--- 模型 #76 ---
+  field 1 (string): Gemini 3 Flash Minimal
+  field 2 (message): [(1, 'varint', 413)]
+  field 3 (fixed32): 1061158912
+  field 5 (varint): 1
+  field 10 (varint): 4
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 8192
+  field 22 (string): %
+  field 9 (fixed32): 1279607887
+
+--- 模型 #77 ---
+  field 1 (string): Gemini 3 Flash Low
+  field 2 (message): [(1, 'varint', 414)]
+  field 3 (fixed32): 1065353216
+  field 5 (varint): 1
+  field 10 (varint): 4
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 8192
+  field 22 (string): !
+  field 9 (fixed32): 1279607887
+
+--- 模型 #78 ---
+  field 1 (string): Gemini 3 Flash Medium
+  field 2 (message): [(1, 'varint', 415)]
+  field 3 (fixed32): 1065353216
+  field 5 (varint): 1
+  field 10 (varint): 4
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 8192
+  field 22 (string): $
+  field 9 (fixed32): 1279607887
+
+--- 模型 #79 ---
+  field 1 (string): Gemini 3 Flash High
+  field 2 (message): [(1, 'varint', 416)]
+  field 3 (fixed32): 1071644672
+  field 5 (varint): 1
+  field 10 (varint): 4
+  field 13 (varint): 1
+  field 18 (varint): 1
+  field 16 (varint): 8192
+  field 22 (string): "
+  field 9 (fixed32): 1279607887
