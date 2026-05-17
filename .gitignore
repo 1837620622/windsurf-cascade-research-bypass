@@ -42,3 +42,6 @@ codeium_auth.txt
 
 # Decoded artifacts (regenerable, may contain credentials)
 decoded_*.txt
+
+# Round 2 templates with real creds
+findings_2026-05-17/templates/full_payload_old.bin
